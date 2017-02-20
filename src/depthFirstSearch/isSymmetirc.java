@@ -1,6 +1,5 @@
 package depthFirstSearch;
 
-import dataStrcuture.TreeNode;
 
 /**
  * Created by weizhi on 2/18/17.
