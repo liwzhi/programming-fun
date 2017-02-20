@@ -30,9 +30,4 @@ public class binaryTreePaths {
             return result;
         }
 
-
-
-
-
-
     }
