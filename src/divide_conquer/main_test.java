@@ -20,6 +20,7 @@ public class main_test {
         System.out.println(jump_2.jump(nums_2));
 
 
+
     }
 
 
